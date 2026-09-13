@@ -27,7 +27,7 @@ In accordance with course guidelines, each entry synthesizes:
 
 | File | Lecture Topic | Date | Status |
 | :--- | :--- | :--- | :--- |
-| [Lecture1.md](Session%20Reflections/Reflection_Session1.md) | Introduction Session | 4 August 2026 | Complete |
+| [Lecture1.md](Session%20Reflections/Reflection_Session1.md) | Introduction Session | 4 August 2026 | Absent |
 | [Lecture2.md](Session%20Reflections/Reflection_Session2.md) | Getting Started & Vector Graphics | 7 August 2026 | Complete |
 | [Lecture3.md](Session%20Reflections/Reflection_Session3.md) | 2D Primitive Graphic (Blue Outline Square) | 13 August 2026 | Complete |
 | [Lecture4.md](Session%20Reflections/Reflection_Session4.md) | Lecture Session 4 (Absent) | 18 August 2026 | Absent |
