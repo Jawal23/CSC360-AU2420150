@@ -35,7 +35,8 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture6.md](Session%20Reflections/Reflection_Session6.md) | Graphics Complexity Roadmap, Maven, EDT Concurrency & JIT | 25 August 2026 | Complete |
 | [Lecture7.md](Session%20Reflections/Reflection_Session7.md) | Java Build Pipelines, Maven, CI/CD, UTF-8/UTF-16 & Security-First Design | 27 August 2026 | Complete |
 | [Lecture8.md](Session%20Reflections/Reflection_Session8.md) | Group Projects, Linear Equations, Distance Formula, Point-in-Circle & Stack vs. Queue | 1 September 2026 | Complete |
-| [Lecture9.md](Session%20Reflections/Reflection_Session9.md) | Group Projects 4–8, Print vs. Draw, Headless Systems, TDD & Graceful Cancellation | 3 September 2026 | Complete |
+| [Lecture9.md](Session%20Reflections/Reflection_Session9.md) | Group Projects 4-8, Print vs. Draw, Headless Systems, TDD & Graceful Cancellation | 3 September 2026 | Complete |
+| [Lecture10.md](Session%20Reflections/Reflection_Session10.md) | Core Java (Ch 7-9), Event Propagation, Responsive Layouts & UI Affordances | 8 September 2026 | Complete |
 
 ---
 
