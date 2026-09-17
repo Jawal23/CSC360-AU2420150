@@ -37,6 +37,7 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture8.md](Session%20Reflections/Reflection_Session8.md) | Group Projects, Linear Equations, Distance Formula, Point-in-Circle & Stack vs. Queue | 1 September 2026 | Complete |
 | [Lecture9.md](Session%20Reflections/Reflection_Session9.md) | Group Projects 4-8, Print vs. Draw, Headless Systems, TDD & Graceful Cancellation | 3 September 2026 | Complete |
 | [Lecture10.md](Session%20Reflections/Reflection_Session10.md) | Core Java (Ch 7-9), Event Propagation, Responsive Layouts & UI Affordances | 8 September 2026 | Complete |
+| [Lecture11.md](Session%20Reflections/Reflection_Session11.md) | Image Processing Shift, Streaming Variance, Stats Primer, SVG, SSR vs. CSR & Taskwood Kickoff | 10 September 2026 | Complete |
 
 ---
 
