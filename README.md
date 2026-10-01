@@ -38,6 +38,8 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture9.md](Session%20Reflections/Reflection_Session9.md) | Group Projects 4-8, Print vs. Draw, Headless Systems, TDD & Graceful Cancellation | 3 September 2026 | Complete |
 | [Lecture10.md](Session%20Reflections/Reflection_Session10.md) | Core Java (Ch 7-9), Event Propagation, Responsive Layouts & UI Affordances | 8 September 2026 | Complete |
 | [Lecture11.md](Session%20Reflections/Reflection_Session11.md) | Image Processing Shift, Streaming Variance, Stats Primer, SVG, SSR vs. CSR & Taskwood Kickoff | 10 September 2026 | Complete |
+| [Lecture12.md](Session%20Reflections/Reflection_Session12.md) | Project Lab, First Taskwood Build, Faculty Approval & AI-Assisted Development | 15 September 2026 | Complete |
+| [Lecture13.md](Session%20Reflections/Reflection_Session13.md) | Project Lab, Git Discipline, Cross-Platform Verification & Feature Planning | 17 September 2026 | Complete |
 
 ---
 
