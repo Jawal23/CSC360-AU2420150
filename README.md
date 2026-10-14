@@ -40,6 +40,9 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture11.md](Session%20Reflections/Reflection_Session11.md) | Image Processing Shift, Streaming Variance, Stats Primer, SVG, SSR vs. CSR & Taskwood Kickoff | 10 September 2026 | Complete |
 | [Lecture12.md](Session%20Reflections/Reflection_Session12.md) | Project Lab, First Taskwood Build, Faculty Approval & AI-Assisted Development | 15 September 2026 | Complete |
 | [Lecture13.md](Session%20Reflections/Reflection_Session13.md) | Project Lab, Git Discipline, Cross-Platform Verification & Feature Planning | 17 September 2026 | Complete |
+| [Lecture14.md](Session%20Reflections/Reflection_Session14.md) | Project Lab, Final Feature Decision, Splash Screen & Documentation Split | 29 September 2026 | Complete |
+| [Lecture15.md](Session%20Reflections/Reflection_Session15.md) | Mock Presentations, Generic Programming, Reusable Code & JavaFX Shape Hierarchy | 1 October 2026 | Complete |
+
 
 ---
 
