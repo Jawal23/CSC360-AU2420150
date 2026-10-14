@@ -11,7 +11,7 @@
 - **Student ID:** AU2420150
 - **Session Number:** Session 14
 - **Session Date:** September 29, 2026
-- **Entry Date:** October 05, 2026
+- **Entry Date:** October 14, 2026
 
 ---
 
@@ -44,10 +44,6 @@ Remaining work was then split: part of the group implemented the splash screen, 
 ## 3. The Redesigned UI
 
 The UI rework planned in Session 13 was now fully visible. The earlier version was utilitarian: flat, white, and functional with little visual thought, closer to software from the 1990s. The redesigned version is cleaner, better proportioned, and noticeably more pleasant to use.
-
-![Redesigned UI Preview](https://github.com/user-attachments/assets/9a021f06-4185-4f53-9b3a-505b1d394fd0)
-
-*The reworked interface as shown in this session.*
 
 > [!NOTE]
 > **Polish Changes Perception:**  
